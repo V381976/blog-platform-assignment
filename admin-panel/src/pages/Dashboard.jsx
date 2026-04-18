@@ -7,12 +7,12 @@ const Dashboard = () => {
     <div className="flex">
       <Sidebar />
 
-      <div className="p-8 flex-1">
+      <div className="p-8 flex-1 m-auto text-center">
         <h1 className="text-3xl font-bold">
           Welcome {user.name}
         </h1>
 
-        <p className="mt-2 text-gray-600">
+        <p className="mt-2 text-3xl text-gray-600">
           Role: {user.role}
         </p>
       </div>

@@ -11,7 +11,7 @@ const BlogList = () => {
   const fetchBlogs = async () => {
     try {
       const data = await getAllBlogs();
-        console.log(data);
+      
       setBlogs(data);
     } catch (error) {
       console.log(error);
