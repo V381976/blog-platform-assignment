@@ -80,3 +80,27 @@ Structured Data (JSON-LD)
 Server Side Rendering (SSR)
 SEO Optimized Static Pages
 
+
+# Screen-Short
+# 1. AdminPanel 
+
+super admin view part 
+
+![alt text](image.png) 
+
+blog list  edit delete and creat new blog   page 
+![alt text](image-1.png) 
+
+ show all user list  user role change  all add page 
+ ![alt text](image-2.png) 
+
+
+# 2. user Part 
+
+user home page
+![alt text](image-3.png) 
+
+blog  info page 
+![alt text](image-4.png)
+
+
